@@ -14,3 +14,11 @@ AI-powered Telegram bot that summarizes daily news and allows interactive chat. 
 📷 Rich News Delivery: Sends news articles with images and direct links.
 
 ⚡ Admin Tools: Admins can list all subscribers and their preferences.
+<img width="344" height="744" alt="image" src="https://github.com/user-attachments/assets/e4eba16b-7685-4a59-a29c-145b3a6806bd" />
+<img width="344" height="744" alt="image" src="https://github.com/user-attachments/assets/a6efee5f-4739-4a92-a0a6-97e0eb820349" />
+<img width="381" height="616" alt="image" src="https://github.com/user-attachments/assets/d18698c9-97ae-46ec-ab5c-166abdc37b81" />
+<img width="443" height="590" alt="image" src="https://github.com/user-attachments/assets/ea8474d5-a0ba-437f-ad42-daf3f4400a6d" />
+
+
+
+
